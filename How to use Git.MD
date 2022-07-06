@@ -16,7 +16,7 @@ When you start to write code, or simply to do anything, the smart move is always
 		
 
 
-![Screenshot from 2022-07-02 17-51-55.png](:/d3f7156ceaa94c0b83e6fcc91c20ff88)
+![Screenshot from 2022-07-02 17-51-55.png](/home/jack/Documents/GitHub/How-to-use-Git/Screenshot from 2022-07-02 17-51-55.png)
 
 
 	

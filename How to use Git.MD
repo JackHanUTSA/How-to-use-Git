@@ -63,3 +63,21 @@ When you find someone want to merge to your master branch, you can chose the `me
 [What is git](https://devmountain.com/blog/what-is-github-and-how-do-you-use-it/)
 
 [Install Git Desktop](https://github.com/shiftkey/desktop/releases)
+
+
+___
+
+## How to Use GitHub Desktop 
+
+GitHub Desktop is an extension to GitHub, [BLANK]
+
+![](https://carldesouza.com/wp-content/uploads/2020/03/img_5e72a64e32003.png)
+
+
+### Install 
+
+### Cloning Repositories 
+
+After installing GitHub for the first time, you can choose to clone or edit your repository. In order to clone a repository, click the dropdown menu, and select _'add'_. From there, choose an existing repositroy from your GitHub and open it through VS Code. 
+
+

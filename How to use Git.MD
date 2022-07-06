@@ -47,8 +47,9 @@ Typing `git status` in the terminal will give information about the working dire
 
 
 
-`git add 
+`git add.
 
+This is the command to type in the terminal to commit change.
 
 		git commit -m "message"
 

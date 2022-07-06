@@ -78,6 +78,13 @@ GitHub Desktop is an extension to GitHub, [BLANK]
 
 ### Cloning Repositories 
 
-After installing GitHub for the first time, you can choose to clone or edit your repository. In order to clone a repository, click the dropdown menu, and select _'add'_. From there, choose an existing repositroy from your GitHub and open it through VS Code. 
+After installing GitHub for the first time, you can choose to clone or edit your repository. In order to clone a repository, click the dropdown menu, and select `add`. From there, choose an existing repositroy from your GitHub and open it through VS Code. 
+
+![](https://user-images.githubusercontent.com/50087820/57088503-4b522380-6cb7-11e9-931d-c36aba32aa44.png)
+_Click [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/troubleshooting-cloning-errors) if you are having cloning erros._ 
 
 
+
+### Pushing Changes to GitHub through Desktop 
+
+When making changes to your website, through VS Code, make sure to constantly update your [commits](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits) to the origin remote. This ensures that the changes you are making are constantly being renewed to the mainframe. 

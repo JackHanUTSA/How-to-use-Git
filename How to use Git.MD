@@ -30,13 +30,30 @@ A repository is a location contain or will contain everything you needed to buil
 
 ![](https://i2.wp.com/digitalvarys.com/wp-content/uploads/2019/06/image-7.png?fit=640%2C311&ssl=1)
 
-Just think about you working on a robot program, which you planing to let the robot use camera to move around the house, while the first step you create a code to run the robot only with remote command from mouse. And then you want to add the camera navigation to the robot system. Now you need a branch that just copy the orgional file called(_mater_), once your development passed the test then you can `merge` to the master. Then your master project have the new feature(camera navigation). 
+Just think about you working on a robot program, which you planing to let the robot use camera to move around the house, while the first step you create a code to run the robot only with remote command from mouse. And then you want to add the camera navigation to the robot system. Now you need a branch that just copy the orgional file called(_master_), once your development passed the test then you can `merge` to the master. Then your master project have the new feature(camera navigation). 
 
 ### Create and Commit Changes to a Branch
 
 ![](https://devmountain.com/wp-content/uploads/2022/04/MoitkFdNz_mJZWVJZe_yiN6xsauXjyE9YfMPpzSvg_Knc6wmvODq_isgulDIVVuUlgn4EckCuCC18a5x7AQNS12mTqOKgyKnpjT9SVLuF4zdXJlz7DwZthY969LbgHfM5uX76ZTV-1.jpeg)
 Each branch in GitHub can be tracked in details. Once you made a change on a file in your branch you will be asked to  make a commit to explain why you made the change. The commits is very important for project managers to understand your work and help other contributors to track the project process.
 
+### Git commands in the Terminal
+
+Typing `git status` in the terminal will give information about the working directories in the computer.
+
+		git status
+
+![Screenshot from 2022-07-02 17-51-5](/home/mingye/Documents/GitHub/How-to-use-Git/Terminal git status.png)
+
+
+
+`git add 
+
+
+		git commit -m "message"
+
+
+		git push
 ### Open a Pull Request
 
 Once your branch is done, you may think to merge your branch to other's branch. In order to do that you need to open a pull request. The GitHub will based on your request to notify the relevant parties that you want to incorporate changes to their branch. If you need to mention someone in the request you can use `@` feature.

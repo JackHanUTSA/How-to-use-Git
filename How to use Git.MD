@@ -54,6 +54,13 @@ Typing `git status` in the terminal will give information about the working dire
 
 
 		git push
+
+
+### Push Command 
+
+The _push_ command allows you to push your local repository changes to your collaborating teammates. In order to do activate `push`, you must check that all of your modifications are committed to your local repository. 
+
+![](https://www.simplilearn.com/ice9/free_resources_article_thumb/Git-push-command.JPG)
 ### Open a Pull Request
 
 Once your branch is done, you may think to merge your branch to other's branch. In order to do that you need to open a pull request. The GitHub will based on your request to notify the relevant parties that you want to incorporate changes to their branch. If you need to mention someone in the request you can use `@` feature.

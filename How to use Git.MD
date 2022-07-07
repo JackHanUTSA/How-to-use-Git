@@ -84,7 +84,7 @@ When you find someone want to merge to your master branch, you can chose the `me
 
 ___
 
-## How to Use GitHub Desktop 
+## How to Install GitHub Desktop 
 
 GitHub Desktop is an extension to GitHub, [BLANK]
 

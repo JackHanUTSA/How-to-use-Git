@@ -71,7 +71,7 @@ When you find someone want to merge to your master branch, you can chose the `me
 ![](https://raw.githubusercontent.com/durgaswaroop/blogimages/master/git_post_octopus_merge.png)
 
 
-
+### Where is Tiffany's section
 
 ### Desktop VS Command Line
 

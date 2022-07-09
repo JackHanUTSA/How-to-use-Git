@@ -43,25 +43,21 @@ Typing `git status` in the terminal will give information about the working dire
 
 		git status
 
-==![Screenshot from 2022-07-02 17-51-5](/home/mingye/Documents/GitHub/How-to-use-Git/Terminal git status.png)==
+
 
 **This area need to be reedit**
 
-==`git add.==
 
 This is the command to type in the terminal to commit change.
+The changes will be saved to the your Local repository
 
 		git commit -m "message"
 
+`git push` is to push the change in your branch to github.
 
 		git push
 
 
-### Push Command 
-
-The _push_ command allows you to push your local repository changes to your collaborating teammates. In order to do activate `push`, you must check that all of your modifications are committed to your local repository. 
-
-![](https://www.simplilearn.com/ice9/free_resources_article_thumb/Git-push-command.JPG)
 ### Open a Pull Request
 
 Once your branch is done, you may think to merge your branch to other's branch. In order to do that you need to open a pull request. The GitHub will based on your request to notify the relevant parties that you want to incorporate changes to their branch. If you need to mention someone in the request you can use `@` feature.

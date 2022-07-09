@@ -43,7 +43,9 @@ Typing `git status` in the terminal will give information about the working dire
 
 		git status
 
-! [](/home/mingye/Documents/GitHub/How-to-use-Git/Terminal git status.png)
+
+
+**This area need to be reedit**
 
 
 This is the command to type in the terminal to commit change.
@@ -54,6 +56,7 @@ The changes will be saved to the your Local repository
 `git push` is to push the change in your branch to github.
 
 		git push
+
 
 ### Open a Pull Request
 
@@ -81,3 +84,4 @@ When you find someone want to merge to your master branch, you can chose the `me
 [What is git](https://devmountain.com/blog/what-is-github-and-how-do-you-use-it/)
 
 [Install Git Desktop](https://github.com/shiftkey/desktop/releases)
+

@@ -45,7 +45,7 @@ Typing `git status` in the terminal will give information about the working dire
 
 ![Screenshot from 2022-07-02 17-51-5](/home/mingye/Documents/GitHub/How-to-use-Git/Terminal git status.png)
 
-
+**This area need to be reedit**
 
 `git add.
 

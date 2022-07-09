@@ -43,12 +43,13 @@ Typing `git status` in the terminal will give information about the working dire
 
 		git status
 
-![Screenshot from 2022-07-02 17-51-5](/home/mingye/Documents/GitHub/How-to-use-Git/Terminal git status.png)
+==![Screenshot from 2022-07-02 17-51-5](/home/mingye/Documents/GitHub/How-to-use-Git/Terminal git status.png)==
 
+**This area need to be reedit**
 
+==`git add.==
 
-`git add 
-
+This is the command to type in the terminal to commit change.
 
 		git commit -m "message"
 

@@ -43,17 +43,19 @@ Typing `git status` in the terminal will give information about the working dire
 
 		git status
 
+<img src = "https://www.dropbox.com/s/pe8fqvxlkemw1e9/Terminal%20git%20status.png?raw=1">
 
-
-**This area need to be reedit**
-
+<br>
 
 This is the command to type in the terminal to commit change.
-The changes will be saved to the your Local repository
+The changes will be saved to the your Local repository. A message must be type between the quotation marks about the changes you have made to the code. This way when a pull request is made. The master can see the message about the changes.
 
 		git commit -m "message"
+<img src = "https://www.dropbox.com/s/6rzvtpxh74q0b1w/Screenshot%20from%202022-07-10%2011-47-47.png?raw=1">
 
-`git push` is to push the change in your branch to github.
+<br>
+
+`git push` is to push the changes saved to local repository but to the online repository.
 
 		git push
 

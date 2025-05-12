@@ -77,6 +77,10 @@ When you find someone want to merge to your master branch, you can chose the `me
 
 ### Desktop VS Command Line
 
+
+- [Desktop](https://desktop.github.com/download/)
+
+
 ![](https://ictsolved.github.io/assets/images/blog/2019-03-03-git-merge-tutorial/git-merge-tutorial.png)
 
 
